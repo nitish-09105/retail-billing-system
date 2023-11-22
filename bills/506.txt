@@ -1,0 +1,33 @@
+		**Welcome Customer**
+
+Bill Number: 506
+
+Customer Name: wadwad
+
+Customer Phone Number: 1131313
+
+=======================================================
+
+Product			Quantity			Price
+
+=======================================================
+
+Bath Soap			 1			20 Rs
+Face Wash			 1			150 Rs
+Body Lotion			 1			200 Rs
+Sugar			 3			135 Rs
+Tea			 3			540 Rs
+Pepsi			 4			200 Rs
+Mountain Dew			 4			200 Rs
+Sprite			 4			200 Rs
+
+-------------------------------------------------------
+
+
+Cosmetic Tax		44.4 Rs
+Grocery Tax		33.75 Rs
+Cold Drinks Tax		108.0 Rs
+
+Total Bill: 		1831.15
+
+-------------------------------------------------------

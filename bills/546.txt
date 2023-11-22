@@ -1,0 +1,28 @@
+		**Welcome Customer**
+
+Bill Number: 546
+
+Customer Name: lokesh
+
+Customer Phone Number: 21436587980
+
+=======================================================
+
+Product			Quantity			Price
+
+=======================================================
+
+Bath Soap			 1			20 Rs
+Sugar			 1			45 Rs
+Maaza			 1			50 Rs
+
+-------------------------------------------------------
+
+
+Cosmetic Tax		2.4 Rs
+Grocery Tax		2.25 Rs
+Cold Drinks Tax		9.0 Rs
+
+Total Bill: 		128.65
+
+-------------------------------------------------------

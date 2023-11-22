@@ -1,0 +1,28 @@
+		**Welcome Customer**
+
+Bill Number: 729
+
+Customer Name: rohan
+
+Customer Phone Number: 123456789
+
+=======================================================
+
+Product			Quantity			Price
+
+=======================================================
+
+Bath Soap			 1			20 Rs
+Tea			 1			180 Rs
+Pepsi			 4			200 Rs
+
+-------------------------------------------------------
+
+
+Cosmetic Tax		2.4 Rs
+Grocery Tax		9.0 Rs
+Cold Drinks Tax		36.0 Rs
+
+Total Bill: 		447.4
+
+-------------------------------------------------------
